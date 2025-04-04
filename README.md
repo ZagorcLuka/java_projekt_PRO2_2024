@@ -2,3 +2,5 @@
 platformer
 
 (Java projekt za Programiranje 2)
+
+Predstavitev: https://youtu.be/PDcDvBTK5MA
